@@ -1,3 +1,4 @@
-<?php 
-require_once("controller/admincontroller.php");
+<?php
+require_once("controller/controller.php");
+
 ?>
